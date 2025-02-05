@@ -410,6 +410,13 @@
 		"testnet": "access.devnet.nodes.onflow.org:9000"
 	},
 	"accounts": {
+		"aiSportsAgent": {
+			"address": "66ea8ce39dab5141",
+			"key": {
+				"type": "file",
+				"location": "aiSportsAgent.pkey"
+			}
+		},
 		"emulator-account": {
 			"address": "f8d6e0586b0a20c7",
 			"key": {
